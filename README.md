@@ -1,7 +1,7 @@
 ## 如何获得本次更新
 
 1. 移除所有除 **java8 jre** 或 **java8 jdk** 外程序
-2. 重新安装最新版启动器 HMCL-3.2.137 [点我跳转](http://hmcl.huangyuhui.net)
+2. 重新安装最新版启动器 HMCL-3.2.137 [点我跳转](http://hmcl.huangyuhui.net) 直接下载链接[Mac OS](https://ci.huangyuhui.net/job/HMCL/137/artifact/HMCL/build/libs/HMCL-3.2.137.jar)
 3. 在启动器内安装游戏本体1.14.4及forge最新版本
 4. 引入模组包
 
