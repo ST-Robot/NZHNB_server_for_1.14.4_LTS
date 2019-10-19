@@ -12,9 +12,8 @@
 ### 本次更新内容
 
 1. 迁移系统版本至1.14.4
-2. 移除被**digmouse**滥用的**worldedit**插件
-3. 加入[传奇玩法 ](https://www.bilibili.com/video/av62440207?from=search&seid=13907325142935749096)
-4. 限制所有人管理员权利
+2. 加入[传奇玩法 ](https://www.bilibili.com/video/av62440207?from=search&seid=13907325142935749096)
+
 
 
 
